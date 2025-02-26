@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Brad Richmond
 - 👀 I’m interested in becoming a Full Stack Web Developer
-- 🌱 I’m currently learning HTML, CSS, Python, JavaScript and React with Coder Academy
-- 💞️ I’m looking to collaborate on ...
-- 😄 Pronouns: He/Him.
+- 🌱 I have just completed a Diploma of IT with Coder Academy
 - ⚡ Fun fact: I'm creating a Portfolio website
 
 <!---
